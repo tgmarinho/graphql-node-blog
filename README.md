@@ -55,10 +55,11 @@ Buscar um usuário com ID específico e retornar o seu nome:
 
 ```
 {
-	user(id: "5dc736d0fb540d5d3b5ca5d8"){
+  user(id: "5dc736d0fb540d5d3b5ca5d8") {
     name
   }
 }
+
 
 ```
 
