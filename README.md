@@ -1,6 +1,6 @@
 ![Thiago Marinho](https://pbs.twimg.com/profile_banners/41742474/1490016588/1500x500)
 
-# API Graphql com NodeJS, Yoga Graphql + MongoDB e Mongoose
+# API GraphQL com NodeJS, Server Yoga GraphQL + MongoDB e Mongoose
 
 Este é um tutorial básico de implemetação de um servidor que expôe uma API em GraphQL para frontend fazer um CRUD de usuário.
 
@@ -79,10 +79,10 @@ Utilize o playground para fazer suas queries e mutations
 
 
 ## Playground Screenshot
-![](https://raw.githubusercontent.com/tgmarinho/meetapp/master/screenshots/insomnia-api.png)
+![](https://raw.githubusercontent.com/tgmarinho/graphql-node-blog/master/screenshots/graphql_print1.png)
 
 
-## Authors
+## Author
 
 | ![Thiago Marinho](https://avatars2.githubusercontent.com/u/380327?s=150&v=3)|
 |:---------------------:|
