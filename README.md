@@ -4,6 +4,9 @@
 
 Este é um tutorial básico de implemetação de um servidor que expôe uma API em GraphQL para frontend fazer um CRUD de usuário.
 
+## Post no blog
+
+[https://www.tgmarinho.com/introducao_ao_graphql_com_nodejs_e_mongodb/](https://www.tgmarinho.com/introducao_ao_graphql_com_nodejs_e_mongodb/)
 
 ## Configurar
 
@@ -28,7 +31,7 @@ ou
 4. npm start
 ```
 
-Abra a url [http://localhost:4000/](http://localhost:4000/) e comece a bricar:
+Abra a url [http://localhost:4000/](http://localhost:4000/) e comece a brincar:
 
 
 Queries and Mutations nammed.
